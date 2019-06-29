@@ -107,7 +107,7 @@ header {
 }
 
 .logo {
-    background: url("../images/profile pic.jpg");
+    background: url("dhpic.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -397,3 +397,8 @@ button[type="submit"] {
 
     }
 }
+
+.col-2 {
+    padding-left: 30px;
+}
+
